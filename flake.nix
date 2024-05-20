@@ -35,6 +35,7 @@
         ./salt/flake-module.nix
         ./pasta/flake-module.nix
         ./pesto/flake-module.nix
+        ./caddy/flake-module.nix
         # Deprecated. Will be removed.
         ./codemod/flake-module.nix
       ];
